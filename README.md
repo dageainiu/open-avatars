@@ -1,13 +1,34 @@
-# Open Source Female Avatars
+# Open Source Avatars
 
-本仓库图片来自开源/自由许可来源，仅供学习与合法使用。
+Free open-source avatar and emoji collection for profiles, apps, and projects.
 
-## 来源
-- **OpenMoji**: https://openmoji.org/  
-  协议：CC BY-SA 4.0  
-  使用时请保留归属说明。
+开源免费头像 / 表情素材，适用于个人主页、应用和项目。
 
-## 文件说明
-文件名格式：`openmoji_<unicode-code>.png`
+## Source / 来源
 
-共 20 张示例图片。
+- **OpenMoji**: https://openmoji.org/
+- License: **CC BY-SA 4.0**
+- Please keep attribution when using.
+
+## Contents / 内容
+
+- Female-style emoji avatars
+- PNG format
+- Filename: `openmoji_<unicode-code>.png`
+
+## Usage / 使用
+
+Download any PNG and use in:
+- GitHub / social profiles
+- App user avatars
+- Documentation and demos
+
+## Topics
+
+`avatar` `emoji` `openmoji` `open-source` `cc-by-sa` `profile` `icons` `free`
+
+## License
+
+Images are from OpenMoji under CC BY-SA 4.0.  
+See https://openmoji.org/ for full license terms.
+
